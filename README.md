@@ -42,7 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Currently exploring how to make the app feel more Twitter branded. Using the color palette provided and the icons given in the guides.
+Had issues with the initial template we needed to download
 
 ## Open-source libraries used
 
